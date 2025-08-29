@@ -91,14 +91,23 @@ laundry-tama/
 #### Halaman Managemen Jenis Layanan
 ![Preview Website](assets/images/jenis%20layanan.png)
 
-#### Halaman About
-![Preview Website](assets/images/jenis laundry satuan.png)
+#### Halaman Managemen Jenis Laundry Satuan
+![Preview Website](assets/images/jenis%20laundry%20satuan.png)
 
-#### Halaman Jasa
-![Preview Website](assets/images/jasa.png)
+#### Halaman Managemen Jenis Laundry Kiloan
+![Preview Website](assets/images/jenis%20laundry%20kiloan.png)
 
-#### Halaman Footer
-![Preview Website](assets/images/footer.png)
+#### Halaman managemen Pelanggan
+![Preview Website](assets/images/managemen%20pelanggan.png)
+
+#### Halaman Transaksi
+![Preview Website](assets/images/transaksi%20baru.png)
+
+#### Halaman Hasil Transaksi Berhasil
+![Preview Website](assets/images/transaksi%20berhasil.png)
+
+#### Halaman Hasil Transaksi 
+![Preview Website](assets/images/hasil%20transaksi.png)
 
 ---
 
