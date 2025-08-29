@@ -85,6 +85,10 @@ laundry-tama/
 ---
 
 ## Tangkapan Layar
+
+#### Halaman Login
+![Preview Website](assets/images/login.png)
+
 #### Halaman Utama
 ![Preview Website](assets/images/home.png)
 
