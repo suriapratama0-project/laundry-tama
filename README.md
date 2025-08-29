@@ -88,11 +88,11 @@ laundry-tama/
 #### Halaman Utama
 ![Preview Website](assets/images/home.png)
 
-#### Halaman Project
-![Preview Website](assets/images/project.png)
+#### Halaman Managemen Jenis Layanan
+![Preview Website](assets/images/jenis-layanan.png)
 
 #### Halaman About
-![Preview Website](assets/images/about.png)
+![Preview Website](assets/images/jenis laundry satuan.png)
 
 #### Halaman Jasa
 ![Preview Website](assets/images/jasa.png)
