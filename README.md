@@ -89,7 +89,7 @@ laundry-tama/
 ![Preview Website](assets/images/home.png)
 
 #### Halaman Managemen Jenis Layanan
-![Preview Website](assets/images/jenis-layanan.png)
+![Preview Website](assets/images/jenis%20layanan.png)
 
 #### Halaman About
 ![Preview Website](assets/images/jenis laundry satuan.png)
