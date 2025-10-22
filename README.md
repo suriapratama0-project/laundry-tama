@@ -1,3 +1,6 @@
+username : admin
+password : admin123
+
 # Website Portofolio
 
 Sebuah website layanan laundry digital yang menampilkan fitur-fitur pemesanan, manajemen pelanggan, dan informasi layanan laundry. Proyek ini dirancang untuk membantu pengguna dalam melakukan transaksi laundry secara lebih mudah, cepat, dan efisien. Website ini berfungsi sebagai antarmuka utama bagi pelanggan dan petugas laundry untuk mengelola layanan seperti laundry kiloan, laundry satuan, dan jenis layanan lainnya. Website ini dibangun menggunakan HTML5, CSS3, JavaScript, dan Bootstrap untuk tampilan depan yang responsif dan interaktif. Pada sisi back-end, digunakan PHP untuk pemrosesan server-side dan MySQL sebagai basis data untuk menyimpan informasi layanan, pelanggan, dan transaksi.
